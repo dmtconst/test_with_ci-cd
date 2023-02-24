@@ -1,0 +1,15 @@
+FROM openjdk:11
+
+RUN wget https://services.gradle.org/distributions/gradle-7.0.2-bin.zip \
+    && unzip -d /opt/gradle gradle-7.0.2-bin.zip \
+    && rm gradle-7.0.2-bin.zip
+
+ENV PATH=$PATH:/opt/gradle/gradle-7.0.2/bin
+COPY . /app
+WORKDIR /app
+
+# монтируем текущую директорию в контейнер
+VOLUME /app
+
+# запускаем тесты с помощью Gradle
+CMD ["gradle", "test"]

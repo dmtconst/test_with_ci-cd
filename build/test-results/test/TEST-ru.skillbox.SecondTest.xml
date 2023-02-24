@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.skillbox.SecondTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-24T11:27:00" hostname="DESKTOP-COTT468" time="0.204">
+  <properties/>
+  <testcase name="check()" classname="ru.skillbox.SecondTest" time="0.204"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

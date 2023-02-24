@@ -1,0 +1,57 @@
+{
+  "uid" : "e3e2c7596ae4ce9b",
+  "name" : "amazon()",
+  "fullName" : "ru.skillbox.AmazonTest.amazon",
+  "historyId" : "57f022b5532c9ee9f0545b5810e3cc04",
+  "time" : {
+    "start" : 1675175441630,
+    "stop" : 1675175452515,
+    "duration" : 10885
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-COTT468"
+  }, {
+    "name" : "thread",
+    "value" : "41548@DESKTOP-COTT468.Test worker(14)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.skillbox.AmazonTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.skillbox.AmazonTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "amazon"
+  }, {
+    "name" : "suite",
+    "value" : "ru.skillbox.AmazonTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3e2c7596ae4ce9b.json",
+  "parameterValues" : [ ]
+}

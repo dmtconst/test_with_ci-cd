@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "DESKTOP-COTT468",
+    "children" : [ {
+      "name" : "41548@DESKTOP-COTT468.Test worker(14)",
+      "children" : [ {
+        "name" : "amazon()",
+        "uid" : "e3e2c7596ae4ce9b",
+        "parentUid" : "c82b9acb169e6e243dc6b9fa645af644",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675175441630,
+          "stop" : 1675175452515,
+          "duration" : 10885
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c82b9acb169e6e243dc6b9fa645af644"
+    } ],
+    "uid" : "18445b68f6024743745cb254f30b9fad"
+  } ],
+  "name" : "timeline"
+}

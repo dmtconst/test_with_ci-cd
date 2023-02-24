@@ -1,0 +1,11 @@
+[ {
+  "uid" : "e3e2c7596ae4ce9b",
+  "name" : "amazon()",
+  "time" : {
+    "start" : 1675175441630,
+    "stop" : 1675175452515,
+    "duration" : 10885
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

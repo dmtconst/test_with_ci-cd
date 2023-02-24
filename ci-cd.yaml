@@ -1,0 +1,13 @@
+steps:
+  - build
+  - tests
+
+inctal deps:
+  stage: build
+  script:
+    - echo "install deps"
+
+unit:
+  stage: tests
+  script:
+    - echo "run tests"

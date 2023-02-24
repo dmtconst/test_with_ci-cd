@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "ru.skillbox.AmazonTest",
+    "children" : [ {
+      "name" : "amazon()",
+      "uid" : "e3e2c7596ae4ce9b",
+      "parentUid" : "53e5d3805f786dfac23d167b6f419a33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1675175441630,
+        "stop" : 1675175452515,
+        "duration" : 10885
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "53e5d3805f786dfac23d167b6f419a33"
+  } ],
+  "name" : "suites"
+}
